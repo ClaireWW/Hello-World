@@ -1,2 +1,3 @@
 # Hello-World
-1st one
+1st repository
+Hello I want to be a nerd/Geek
